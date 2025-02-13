@@ -1,5 +1,4 @@
 # Amal-othman
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -54,10 +53,10 @@
 
     <h1>Happy Valentine's Day, Mom!</h1>
     <p>
-        I just wanted to take a moment to thank you for everything you've done for me. You have been my guiding light, my greatest support, and the most loving mother anyone could ask for. Even though we can't be together today, I want you to know that I am thinking of you and sending all my love your way.
+        I just wanted to take a moment to thank you for everything you've done for me. You have been my guiding light, my greatest support, and the most loving mother anyone could ask for. 
     </p>
     <p>
-        I hope you have a lovely weekend filled with happiness, peace, and lots of love. I miss you so much, and I can't wait to see you soon. You're the best, and I am forever grateful for you. ❤️
+        You're the best, and I am forever grateful for you. ❤️
     </p>
     <div class="heart">❤️</div>
     <a href="#" class="button">I love you, Mom!</a>
